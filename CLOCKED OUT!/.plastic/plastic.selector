@@ -1,0 +1,4 @@
+repository "CLOCKED OUT! 2026-10-13_11-07-23/CLOCKED OUT!@2476003443289@cloud"
+  path "/"
+    br "/main"
+    co "/main"
